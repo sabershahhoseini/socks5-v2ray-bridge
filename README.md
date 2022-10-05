@@ -26,7 +26,7 @@ wget 'https://github.com/v2ray/v2ray-core/releases/download/v4.28.2/v2ray-linux-
 unzip v2ray-linux-64.zip
 ```
 
-And copy `socks5-v2ray-bridge/config.json` to `v2ray/config.json` and change the placeholders. Placeholders are for IP, Domain, UUID of upstream server, and alterid.
+And copy `socks5-v2ray-bridge/config.json` to `v2ray/config.json` and **change the placeholders**. Placeholders are for **IP, Domain, UUID of upstream server, and alterid**.
 Then, while you're in `v2ray` directory, run command below to start socks5 bridge server.
 
 ```

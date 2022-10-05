@@ -14,7 +14,7 @@ Client uses socks5 proxy to connect to socks5 proxy bridge server. And bridge se
 ### On **Upstream** server:
 **You'll need a Domain pointing to your upstream server**
 
-You need to deploy a v2ray server. Go to this [link](https://www.oilandfish.com/posts/v2ray.html#1-3) and deploy a v2ray server.
+To deploy a v2ray upstream server., go to this [link](https://www.oilandfish.com/posts/v2ray.html#1-3) and deploy a v2ray server.
 
 ### On **Bridge** server:
 

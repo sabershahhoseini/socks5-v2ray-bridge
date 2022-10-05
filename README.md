@@ -9,13 +9,13 @@ Our topology is:
 
 Client uses socks5 proxy to connect to socks5 proxy bridge server. And bridge server connects to upstream server.
 
-### Getting started
+## Getting started
 
-On **Upstream** server:
+### On **Upstream** server:
 **You'll need a Domain pointing to your upstream server**
 Go to this [link](https://www.oilandfish.com/posts/v2ray.html#1-3) and deploy a v2ray server.
 
-On **Bridge** server:
+### On **Bridge** server:
 
 First, download v2ray-core:
 
@@ -33,4 +33,3 @@ Then, while you're in `v2ray` directory, run command below to start socks5 bridg
 ```
 
 You're done! Now you can connect to your **bridge server's IP** and port **1080** using a socks5 proxy client!
-

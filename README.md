@@ -35,4 +35,5 @@ Then, while you're in `v2ray` directory, run command below to start socks5 bridg
 ./v2ray -config=config.json
 ```
 
+You can also change `port` and `listen` address for your disired needs.
 You're done! Now you can connect to your **bridge server's IP** and port **1080** using a socks5 proxy client!
